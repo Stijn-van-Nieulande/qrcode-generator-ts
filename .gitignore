@@ -1,7 +1,9 @@
 node_modules
 dist
 
-*.js
-*.js.map
-*.d.ts
+# *.js
+# *.js.map
+# *.d.ts
+bundles/src
+bundles/*.d.ts
 .idea/
